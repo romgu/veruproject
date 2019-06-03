@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/veruproject/static/css/main.071cb504.chunk.css",
+    "main.js": "/veruproject/static/js/main.e34d7e80.chunk.js",
+    "main.js.map": "/veruproject/static/js/main.e34d7e80.chunk.js.map",
+    "runtime~main.js": "/veruproject/static/js/runtime~main.d63868f3.js",
+    "runtime~main.js.map": "/veruproject/static/js/runtime~main.d63868f3.js.map",
+    "static/css/2.9522b9fe.chunk.css": "/veruproject/static/css/2.9522b9fe.chunk.css",
+    "static/js/2.a2b12e65.chunk.js": "/veruproject/static/js/2.a2b12e65.chunk.js",
+    "static/js/2.a2b12e65.chunk.js.map": "/veruproject/static/js/2.a2b12e65.chunk.js.map",
+    "index.html": "/veruproject/index.html",
+    "precache-manifest.235433013d8e9586e773b62ae2ead81c.js": "/veruproject/precache-manifest.235433013d8e9586e773b62ae2ead81c.js",
+    "service-worker.js": "/veruproject/service-worker.js",
+    "static/css/2.9522b9fe.chunk.css.map": "/veruproject/static/css/2.9522b9fe.chunk.css.map",
+    "static/css/main.071cb504.chunk.css.map": "/veruproject/static/css/main.071cb504.chunk.css.map",
+    "static/media/Design_01.jpg": "/veruproject/static/media/Design_01.5382cf91.jpg",
+    "static/media/Design_02.jpg": "/veruproject/static/media/Design_02.4fa36352.jpg",
+    "static/media/App.css": "/veruproject/static/media/Veru_Perspective_Web.1a0f305e.jpg",
+    "static/media/Personas01.jpg": "/veruproject/static/media/Personas01.a9473693.jpg",
+    "static/media/Personas02.jpg": "/veruproject/static/media/Personas02.f20c0f8e.jpg",
+    "static/media/Personas03.jpg": "/veruproject/static/media/Personas03.04bee475.jpg",
+    "static/media/Vision_01.jpg": "/veruproject/static/media/Vision_01.7d1f732d.jpg",
+    "static/media/Vision_02.jpg": "/veruproject/static/media/Vision_02.9fb33ae1.jpg",
+    "static/media/Vision_03.jpg": "/veruproject/static/media/Vision_03.02d9ef7c.jpg",
+    "static/media/Vision_04.jpg": "/veruproject/static/media/Vision_04.03c6faf3.jpg",
+    "static/media/Vision_05.jpg": "/veruproject/static/media/Vision_05.323a6d73.jpg",
+    "static/media/Vision_06.jpg": "/veruproject/static/media/Vision_06.ed4d724d.jpg"
+  }
+}
