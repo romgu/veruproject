@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13de37b237a55bb16e50c626efd66ef4",
+    "revision": "b0faca348fddcd90ce166401764c2fe0",
     "url": "/veruproject/index.html"
   },
   {
